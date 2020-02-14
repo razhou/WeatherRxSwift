@@ -17,6 +17,7 @@ target 'Weather' do
   pod 'RxCocoa', '~> 4'
   pod 'SVProgressHUD','~> 2.2.5'
   pod 'Kingfisher','~> 5.7.1'
+  pod 'lottie-ios'
 
   target 'WeatherTests' do
     inherit! :search_paths
